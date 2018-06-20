@@ -5,7 +5,7 @@ I suppose to add features time by time.
 
 __Anyway I will appreciate if you can contribute to this repo :D__
 
-## Project three
+## Project tree
 
 * dist
 * src
